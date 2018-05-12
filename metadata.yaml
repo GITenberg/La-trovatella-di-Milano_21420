@@ -1,0 +1,28 @@
+_repo: La-trovatella-di-Milano_21420
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Invernizio, Carolina
+    birthdate: 1851
+    deathdate: 1916
+    gutenberg_agent_id: '9913'
+    url: http://www.gutenberg.org/2009/agents/9913
+    wikipedia: http://it.wikipedia.org/wiki/Carolina_Invernizio
+description: ''
+gutenberg_bookshelf: IT Romanzi
+gutenberg_issued: '2007-05-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21420'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Fiction'
+title: La trovatella di Milano
+url: http://www.gutenberg.org/ebooks/21420
