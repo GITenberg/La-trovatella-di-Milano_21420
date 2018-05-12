@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9913
     wikipedia: http://it.wikipedia.org/wiki/Carolina_Invernizio
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21420#La-trovatella-di-Milano
 gutenberg_bookshelf: IT Romanzi
 gutenberg_issued: '2007-05-12'
 gutenberg_type: Text
